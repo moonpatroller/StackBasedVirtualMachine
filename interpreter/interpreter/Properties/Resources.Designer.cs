@@ -9,7 +9,6 @@
 //------------------------------------------------------------------------------
 
 namespace interpreter.Properties {
-    using System;
     
     
     /// <summary>

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace StackBasedVirtualMachine.Properties
+namespace SBVM_IDE.Properties
 {
 
 
